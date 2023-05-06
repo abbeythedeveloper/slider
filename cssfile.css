@@ -233,10 +233,10 @@ img{
 
 @media (max-width: 650px) {
 	.slider{
-		height: 600px;
+		height: auto;
 	}
 	.myslide{
-		height: 600px;
+		height: auto;
 	}
     .main {
         flex-direction: column;
