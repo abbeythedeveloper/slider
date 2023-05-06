@@ -11,6 +11,8 @@ header{
     width: 100%;
     position: absolute;
     top: 0;
+	background: rgba(0, 0, 0, 0.463);
+	backdrop-filter: blur(10px);
 	z-index: 2;
 	display: flex;
     justify-content: space-between;
